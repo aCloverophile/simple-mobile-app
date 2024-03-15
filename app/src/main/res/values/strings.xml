@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub Clone App</string>
+    <string name="whoami">By Cloverophile 🍀 </string>
+    <string name="home">Home</string>
+    <string name="avatar">avatar</string>
+    <string name="organizations">Organizations</string>
+    <string name="repositories">Show Repositories</string>
+    <string name="logo">logo</string>
+    <string name="repository_description">Repository Description</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="repository_language">Repository Language</string>
+    <string name="repository_stars">Stars: %1$s</string>
+    <string name="repository_forks">Forks: %1$s</string>
+    <string name="repository_commits">Commits: %1$s</string>
+    <string name="repository_pull_requests">Pull Requests: %1$s</string>
+    <string name="repository_issues">Issues: %1$s</string>
+</resources>
