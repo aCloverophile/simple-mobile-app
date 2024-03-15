@@ -1,6 +1,7 @@
 # simple-mobile-app
 
 A simple Android application with some basic functionalities. 
+It is intended for practice purposes.
 
 You can see the overall application functionalities in the video below:
 
