@@ -1,8 +1,11 @@
 # simple-mobile-app
+## GitHub Clone App
+💛 As the homework project for the "Mobile Programming and Security" course, I created a simple mobile application written in Kotlin. 
 
-As the homework project for the "Mobile Programming and Security" course, I created a simple mobile application written in Kotlin. 
-
-Called the "GitHub Clone App", the project aims to sharpen our skills in working with API calls and requests, using RecyclerView for UI design and understanding how a mobile application works overall. 
+Called the "GitHub Clone App", this project aimed to sharpen our skills in...
+- working with API calls and requests,
+- using RecyclerView for UI design,
+- understanding how a mobile application works overall. 
 
 The video below shows the overall functionalities of the application:
 
