@@ -6,7 +6,7 @@
 
 Called the "GitHub Clone App", this project aimed to sharpen our skills in...
 - working with API calls and requests,
-- using RecyclerView for UI design,
+- using RecyclerView for an efficient UI design,
 - understanding how a mobile application works overall. 
 
 ---
